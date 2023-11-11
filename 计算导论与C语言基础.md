@@ -2,7 +2,9 @@
 
 北京大学，李戈
 
-[bilibili教程](https://www.bilibili.com/video/BV1Hx411U7iw?p=5&spm_id_from=pageDriver&vd_source=021ea7368e5cb863c0b7cea953713c02)
+[bilibili教程1](https://www.bilibili.com/video/BV1Hx411U7iw?p=5&spm_id_from=pageDriver&vd_source=021ea7368e5cb863c0b7cea953713c02)
+
+[bilibili教程2](https://www.bilibili.com/video/BV1nx411Q7J3/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=021ea7368e5cb863c0b7cea953713c02)更全一些
 
 [coursera课程](https://www.coursera.org/learn/jisuanji-biancheng?specialization=biancheng-suanfa)
 
@@ -24,3 +26,6 @@
 
 - 2023/11/10
 将60集看完，之后学习二维数组。
+
+- 2023/11/11
+看完了。
